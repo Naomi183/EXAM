@@ -1,4 +1,4 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Netlify](https://sleeike.netlify.app/).
+This project was hosted with [Netlify](https://sleeike.netlify.app/).
 
